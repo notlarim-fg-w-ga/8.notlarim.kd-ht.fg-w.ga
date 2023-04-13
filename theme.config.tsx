@@ -18,7 +18,7 @@ const config: DocsThemeConfig = {
                 type: 'website',
                 locale: 'en_IE',
                 url: 'https://8.notlarim.kd-ht.fg-w.ga/',
-                site_name: 'FeignAPI',
+                site_name: 'notlarımAPI',
             }
         }
     },
