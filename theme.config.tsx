@@ -3,7 +3,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 import Head from 'next/head';
 
 const config: DocsThemeConfig = {
-    logo: <span style={{ fontSize: "24px" }}><strong>📑 |</strong>Notlarım / 8. Sınıf</span>,
+    logo: <span style={{ fontSize: "24px" }}><strong>📑 |</strong> Notlarım / 8. Sınıf</span>,
     project: {
         link: 'https://github.com/heyturkiye58',
     },
